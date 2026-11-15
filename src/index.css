@@ -1,0 +1,23 @@
+  @import "tailwindcss";
+
+
+  @theme {
+    --font-sans: "Inter", sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
+  }
+
+
+  @layer base {
+    body {
+      background-color: #FAFAFA;
+      color: #09090B;
+      font-family: var(--font-sans);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  }
+
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
