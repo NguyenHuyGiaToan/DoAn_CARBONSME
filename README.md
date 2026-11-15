@@ -1,6 +1,6 @@
-# CARBONSME — Hệ thống Quản lý Phát thải Khí nhà kính SME
+# CARBONSME — Hệ thống Quản lý Phát thải Khí nhà kính tích hợp AI cho SMEs
 
-Đồ án xây dựng ứng dụng web hỗ trợ doanh nghiệp vừa và nhỏ (SME) thu thập số liệu tiêu thụ năng lượng (Scope 1 & Scope 2), đối soát chứng từ, tính toán lượng phát thải khí nhà kính (`tCO2e`), trực quan hóa dữ liệu theo kỳ kiểm kê và gợi ý giải pháp tối ưu năng lượng.
+Đồ án xây dựng ứng dụng web hỗ trợ doanh nghiệp vừa và nhỏ (SMEs) thu thập số liệu tiêu thụ năng lượng (Scope 1 & Scope 2), đối soát chứng từ, tính toán lượng phát thải khí nhà kính (`tCO2e`), trực quan hóa dữ liệu theo kỳ kiểm kê và gợi ý giải pháp tối ưu năng lượng.
 
 ---
 
